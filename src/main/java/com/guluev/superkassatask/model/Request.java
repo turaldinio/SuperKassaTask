@@ -1,4 +1,4 @@
-package com.guluev.superkasstask.model;
+package com.guluev.superkassatask.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
-package com.guluev.superkasstask.entity;
+package com.guluev.superkassatask.entity;
 
-import com.guluev.superkasstask.model.UserCurrentNumber;
+import com.guluev.superkassatask.model.UserCurrentNumber;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

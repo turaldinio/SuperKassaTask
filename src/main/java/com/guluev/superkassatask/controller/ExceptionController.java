@@ -1,4 +1,4 @@
-package com.guluev.superkasstask.controller;
+package com.guluev.superkassatask.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,8 +1,8 @@
-package com.guluev.superkasstask.controller;
+package com.guluev.superkassatask.controller;
 
-import com.guluev.superkasstask.model.Request;
-import com.guluev.superkasstask.model.UserCurrentNumber;
-import com.guluev.superkasstask.service.DatabaseService;
+import com.guluev.superkassatask.model.Request;
+import com.guluev.superkassatask.model.UserCurrentNumber;
+import com.guluev.superkassatask.service.DatabaseService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;

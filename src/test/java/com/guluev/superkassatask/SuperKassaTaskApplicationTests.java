@@ -1,7 +1,7 @@
-package com.guluev.superkasstask;
+package com.guluev.superkassatask;
 
-import com.guluev.superkasstask.model.Request;
-import com.guluev.superkasstask.model.UserCurrentNumber;
+import com.guluev.superkassatask.model.Request;
+import com.guluev.superkassatask.model.UserCurrentNumber;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
