@@ -1,5 +1,6 @@
 package com.guluev.superkasstask.entity;
 
+import com.guluev.superkasstask.model.UserCurrentNumber;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
